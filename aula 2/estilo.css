@@ -1,0 +1,36 @@
+h1{
+    color: red;
+}
+
+#p1{
+    color: purple ;
+}
+
+#p2{
+    color: turquoise;
+}
+
+div p{
+    font-size: 20pt;
+}
+
+div p:hover{
+    background-color: red;
+}
+
+.class_exemplo{
+    background-color: lightgreen;
+    }
+
+#id_exemplo{
+    background-color: aquamarine;
+}
+
+a:visited{
+    color: purple;
+}
+
+a:hover{
+    color: red;
+}
+
