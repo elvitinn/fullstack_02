@@ -1,0 +1,12 @@
+.a1:hover{
+    color: red;
+}
+
+.a1:hover:visited{
+    color: red;
+}
+
+body{
+    color: white;
+    background-color: black;
+}
