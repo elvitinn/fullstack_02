@@ -1,0 +1,17 @@
+table, th, td {
+    border: 3px solid whitesmoke;
+    border-collapse: collapse;
+  }
+
+body{
+    background-image: url(imagens/cropped-1920-1080-107763.jpg);
+    color: white;
+}
+
+.a1 :hover {
+    color: red;
+}
+
+.a2 :hover{
+    color: red;
+}
