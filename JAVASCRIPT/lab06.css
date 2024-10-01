@@ -1,0 +1,44 @@
+body{
+    background-color: bisque;
+}
+
+#flexcontainer{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    padding: 0%;
+    
+}
+
+#adivinhe{
+    height: 50px;
+    width: 300px;
+}
+
+#bt1{
+    height: 50px;
+    width: 270px;
+}
+
+#result{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#caixa{
+    display: flex;
+    flex-flow: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#maiores{
+    background-color: lightgray;
+    margin: auto;
+}
+
+#menores{
+    background-color: lightgray;
+    margin: auto;
+}
